@@ -1,1 +1,1 @@
-# Fine-Tunning-PCB-Components-Detection-Model
+# Model - Defect Dectection for PCBs 
